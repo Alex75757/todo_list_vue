@@ -20,3 +20,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # todo_list_vue
 
 
+видео по ссылке:
+https://www.youtube.com/watch?v=Ez5_CITkg24
